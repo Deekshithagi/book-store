@@ -17,17 +17,17 @@ Welcome to the Bookstore Website repository! This project is a simple online boo
 - **Bootstrap**: For responsive and modern design.
 
 Usage
-1.Open index.html in your web browser to view the home page.
-2.Navigate to the Books page to browse all available books.
-3.Click on a book to view its details.
-4.Use the search bar to find books by title or author.
-5.Use the sort buttons to sort books by price or title.
-6.Add books to your cart and view the cart contents.
+-1.Open index.html in your web browser to view the home page.
+-2.Navigate to the Books page to browse all available books.
+-3.Click on a book to view its details.
+-4.Use the search bar to find books by title or author.
+-5.Use the sort buttons to sort books by price or title.
+-6.Add books to your cart and view the cart contents.
 
 Folder Structure
-index.html: Home page.
-products.html: Books listing page.
-book-details.html: Book details page.
-styles.css: Custom styles for the website.
-scripts.js: JavaScript for dynamic functionality.
-images/: Folder containing book images.
+-**index.html**: Home page.
+-**products.html**: Books listing page.
+-**book-details.html**: Book details page.
+-**styles.css**: Custom styles for the website.
+-**scripts.js**: JavaScript for dynamic functionality.
+-**images/**: Folder containing book images.
