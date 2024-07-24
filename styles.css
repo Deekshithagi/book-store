@@ -1,0 +1,26 @@
+body {
+    padding-top: 56px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.product-card {
+    margin-bottom: 20px;
+}
+
+.large-image {
+    width: 300px;
+    height: auto;
+}
+
+.medium-image {
+    width: 200px;
+    height: auto;
+}
+
+.small-image {
+    width: 100px;
+    height: auto;
+}
